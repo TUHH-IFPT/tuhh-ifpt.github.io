@@ -1,0 +1,22 @@
+.home .hero img {
+  max-width: 450px !important;
+  padding-bottom: 24px;
+};
+
+.home {
+    padding: 0;
+};
+
+.code-group {
+  max-width: 600px !important;
+
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+};
+
+@media (max-width: 419px) {
+    .code-group-nav {
+        margin-left: 0px !important;
+    }
+};
