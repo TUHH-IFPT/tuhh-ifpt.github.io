@@ -51,7 +51,8 @@ spec:
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:myschema="https://tuhh-ifpt.github.io/{schema}"
    version="1.0">
-</xs:schema>```
+</xs:schema>
+```
 
 ::::
 
