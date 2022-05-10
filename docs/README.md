@@ -3,7 +3,7 @@ home: true
 heroImage: /ifpt.png
 heroText: null
 tagline: null
-footer: <p>✈ visit us @<a href="https://www.tuhh.de/ifpt/">www.tuhh.de/ifpt/</a></p><p>⚖ <a href="/imprint</p>html">imprint</a>
+footer: <p>✈ visit us @<a href="https://www.tuhh.de/ifpt/">www.tuhh.de/ifpt/</a></p><p>⚖ <a href="/imprint.html">imprint</a></p>
 footerHtml: true
 ---
 
