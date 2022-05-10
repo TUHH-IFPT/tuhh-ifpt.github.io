@@ -23,7 +23,9 @@ module.exports = {
         navbar: false,
         sidebar: false,
         repo: repository,
-        editLink: false
+        editLink: false,
+        contributors: false,
+        lastUpdated: false,
     }),
 
     plugins: [
